@@ -21,43 +21,49 @@ OpenAI API : An API that provides access to a variety of machine learning models
 The sumz application provides the following features:
 
 Ability to summarize articles using the OpenAI API
+
 Local storage for storing all data, including previous articles and URLs
+
 To use the application, follow these steps:
 
-Open the application in your web browser.
-Paste the URL of an article into the input box.
-Press enter and wait for the article to be summarized.
-The summary will appear on the screen.
-This application is useful for anyone who wants to quickly summarize an article without having to read the entire thing.
+1. Open the application in your web browser.
+   
+2. Paste the URL of an article into the input box.
+   
+3. Press enter and wait for the article to be summarized.
+   
+4. The summary will appear on the screen.
+   
+sumz is useful to quickly summarize an article without having to read the entire thing.
 
-# 4. How to Use
+# 4. Set up locally
 To get started with this project, follow these steps:
 
-Clone this repository
+# Clone this repository
 
-git clone https://github.com/Chennareddy44/sumz.git
+` git clone https://github.com/Chennareddy44/sumz.git `
 
-Install the dependencies
+# Install the dependencies
 
-cd sumz 
+` cd sumz `
 
-npm install
+` npm install `
 
-Run the development server
+# Run the development server
 
-npm run dev
+` npm run dev `
 
-The application will be available at http://localhost:5173/
+The application will be available at ` http://localhost:5173/ `
 
 # 5. Contributing
 If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository
 
-2. Create a new branch (git checkout -b feature/your-feature-name)
+2. Create a new branch (` git checkout -b feature/your-feature-name `)
 
-3. Make your changes and commit them (git commit -am 'Add some feature')
+3. Make your changes and commit them (` git commit -am 'Add some feature' `)
 
-4. Push to the branch (git push origin feature/your-feature-name)
+4. Push to the branch (` git push origin feature/your-feature-name `)
 
 5. Create a new Pull Request
