@@ -5,7 +5,7 @@ This is a React-based web application that allows users to summarize articles us
 ![sumz](https://github.com/Chennareddy44/sumz/assets/92796914/3a67d9f4-ab48-415e-9df6-dc071feeb7ae)
 
 
-[Live Preview]( https://aisummarizer44.netlify.app/ )
+[Live Preview]( [https://aisummarizer44.netlify.app/](https://sumz-eight.vercel.app/) )
 
 # 2. Technologies Used
 React : A popular JavaScript library for building user interfaces.
